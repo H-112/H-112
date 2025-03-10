@@ -8,16 +8,13 @@
 [![Frontend Skills](https://skillicons.dev/icons?i=vue,js,ts,html,css,echarts)](https://skillicons.dev)
 
 ### ⚙️ Backend  
-[![Backend Skills](https://skillicons.dev/icons?i=java,spring,cpp)](https://skillicons.dev)
-
-### 🗄 Database  
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=java,spring,cpp,mysql,postgresql)](https://skillicons.dev)
 
 ### 🚀 Deployment & DevOps  
 [![DevOps Skills](https://skillicons.dev/icons?i=docker,nginx)](https://skillicons.dev)
 
 ### 🔗 Version Control & Tools  
-[![Tools Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
+[![Tools Skills](https://skillicons.dev/icons?i=git,github,postman,obsidian,idea,vscode)](https://skillicons.dev)
 
 
 <!--
